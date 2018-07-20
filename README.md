@@ -116,13 +116,6 @@ Still need maintenance? how can we automate that?
 [Maintenance.](Maintenance.md)
 
 
-### Support
-
-Community and commercial support tools and services.
-
-[Support.](Support.md)
-
-
 #### Cloud
 
 Multiple cloud providers, cloud agnostic tools and services, or high level abstractions.
@@ -135,4 +128,11 @@ Multiple cloud providers, cloud agnostic tools and services, or high level abstr
 Content delivery network solutions and integrations.
 
 [CDN.](CDN.md)
+
+
+### Q&A
+
+Question and Answer tools and services.
+
+[Q&A.](QnA.md)
 
