@@ -28,3 +28,10 @@ Documentation single entry web mockup:
 
 
 ![All documentation should be in single web page](https://raw.githubusercontent.com/Mergenie/tools-and-services/master/Documentation-Entry-Point.png "Documentation single entry web page")
+
+
+
+Swagger UI Example web mockup:
+
+
+![User Manual, Tech Reference and Swagger UI should be in same page](https://raw.githubusercontent.com/Mergenie/tools-and-services/master/Swagger-UI-Example.png "User Manual, Tech Reference and Swagger UI in same page")
