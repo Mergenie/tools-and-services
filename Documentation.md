@@ -22,3 +22,7 @@ documentation should also contain Postman Collections as a ZIP file.
 
 Since REST API application will be deployed as separate applications, there has to be a single entry point to 
 whole documentation which should have links to all Swagger UIs, Q&A site, Slack and other tools.
+
+
+Documentation single entry web mockup: 
+![All documentation should be in single web page](https://raw.githubusercontent.com/Mergenie/tools-and-services/master/Documentation-Entry-Point.png "Documentation single entry web page")
