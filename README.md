@@ -109,7 +109,7 @@ Cloud and SAAS resources and quotas.
 [Resources.](Resources.md)
 
 
-### Maintenance
+#### Maintenance
 
 Still need maintenance? how can we automate that?
 
@@ -142,4 +142,15 @@ Question and Answer tools and services.
 User manual, Technical reference and REST API documentation tools and services.
 
 [Documentation.](Documentation.md)
+
+
+### Design Decisions, Methodologies, Architectures
+
+High level design decisions, software methodologies and architectural alternatives.
+
+[Design Decisions, Methodologies, Architectures.](DD-Meth-Arch.md)
+
+
+
+
 
