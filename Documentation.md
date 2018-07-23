@@ -25,4 +25,6 @@ whole documentation which should have links to all Swagger UIs, Q&A site, Slack 
 
 
 Documentation single entry web mockup: 
+
+
 ![All documentation should be in single web page](https://raw.githubusercontent.com/Mergenie/tools-and-services/master/Documentation-Entry-Point.png "Documentation single entry web page")
